@@ -2,6 +2,9 @@
 
 ## Multi-floor navigation with ROS2, using the Nav2 package.
 
+![turtlebot-3-waffle](https://user-images.githubusercontent.com/81651764/188286808-ea797ca2-dca0-4cbf-b6c7-a79a56358594.jpg)
+
+
 Multi-floor navigation with ROS2, using the Nav2 package [1].
 The idea of this assignment is to construct in simulation a multi-floor environment,
 where each floor has a different map layout. The robot knows a priori the individual
