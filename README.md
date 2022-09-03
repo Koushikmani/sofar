@@ -57,7 +57,7 @@ Terminal1:
 [Navmap](Simple Nav2 API (including methods to plan navigation, change active map and other utilities) / https://navigation.ros.org/commander_api/index.html) /
 
 
-Maps:
+Example Maps in this package:
 ![Screenshot from 2022-09-02 23-28-22](https://user-images.githubusercontent.com/81651764/188286635-487ae264-848e-4a10-82fb-65ba965cbbd7.png)
 ![Screenshot from 2022-09-02 23-32-52](https://user-images.githubusercontent.com/81651764/188286636-e80d15e6-37f7-4aff-a08f-4041ba2a4109.png)
 ![Screenshot from 2022-09-02 23-37-08](https://user-images.githubusercontent.com/81651764/188286637-c14b758d-32eb-46ba-9305-9263288b9d8f.png)
