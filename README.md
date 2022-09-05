@@ -40,6 +40,7 @@ change the current loaded map for navigation upon entering another floor.
 
 Testing Process:
 Terminal1
+
     '''
         ros2 launch sofar_assignment tb3_gazebo_stage1.py headless:=False
     '''
