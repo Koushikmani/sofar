@@ -56,8 +56,10 @@ Terminal3
     '''
 Updated Final:
 Terminal1:
+
+    '''
             ros2 launch sofar_assignment sofar_robot.launch.py 
-            
+    '''            
 ## References
 [ros2 Examples](https://automaticaddison.com/how-to-load-a-new-map-for-multi-floor-navigation-using-ros-2/) /
 [Nav2](https://navigation.ros.org/) /
