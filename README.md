@@ -1,6 +1,7 @@
 # SOFAR_ASSIGNMENT-4  GROUP-25
 
 ## Multi-floor navigation with ROS2, by using the Nav2 package.
+### Developed by Koushikmani Maskalmatti Lakshman and Santhosh Sadhanandham under the guidance of professors Fulvio Mastrogiovanni and Simone Macciò. 
 
 ![turtlebot-3-waffle](https://user-images.githubusercontent.com/81651764/188286808-ea797ca2-dca0-4cbf-b6c7-a79a56358594.jpg)
 
