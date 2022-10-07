@@ -68,6 +68,6 @@ Example Maps in this package:
 ![Screenshot from 2022-09-02 23-37-08](https://user-images.githubusercontent.com/81651764/188286637-c14b758d-32eb-46ba-9305-9263288b9d8f.png)
 
 
-## PRESENTATION
+## Presentation of this project
 
 [Project Presentation Group 25](https://unigeit-my.sharepoint.com/:p:/g/personal/s5053566_studenti_unige_it/Eb4GXvMZjCZPkAOPl3CgukEBOmp50PicJvCANtFj14zN7w?e=cdHbTJ)
