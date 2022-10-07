@@ -2,17 +2,12 @@
 
 ## Multi-floor navigation with ROS2, by using the Nav2 package.
 ### Developed by Koushikmani Maskalmatti Lakshman and Santhosh Sadhanandham under the guidance of professors Fulvio Mastrogiovanni and Simone Macciò. 
-
-![turtlebot-3-waffle](https://user-images.githubusercontent.com/81651764/188286808-ea797ca2-dca0-4cbf-b6c7-a79a56358594.jpg)
-
-Multi-floor navigation with ROS2, using the Nav2 package
 The idea of this assignment is to construct in simulation a multi-floor environment,
 where each floor has a different map layout. The robot knows a priori the individual
 maps of each floor but needs some sort of state machine mechanism to dynamically
 change the current loaded map for navigation upon entering another floor.
 
-
-
+![turtlebot-3-waffle](https://user-images.githubusercontent.com/81651764/188286808-ea797ca2-dca0-4cbf-b6c7-a79a56358594.jpg)
 
 ![Screenshot from 2022-09-03 22-19-39](https://user-images.githubusercontent.com/81651764/188286626-f41bbd84-87df-41b7-b8f4-bbcaf08febac.png)
 ![Screenshot from 2022-09-03 22-20-19](https://user-images.githubusercontent.com/81651764/188286627-e854a4ee-724b-4dba-b40c-acd65d36ddf8.png)
