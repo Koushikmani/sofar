@@ -59,7 +59,7 @@ Terminal1:
 - [Ros2 Examples](https://automaticaddison.com/how-to-load-a-new-map-for-multi-floor-navigation-using-ros-2/) 
 - [Nav2](https://navigation.ros.org/) 
 - [Gazebo Elevator Plugin](Gazebo Elevator Plugin: https://osrf-distributions.s3.amazonaws.com/gazebo/api/6.1.0/classgazebo_1_1ElevatorPlugin.html) 
-[Navmap](Simple Nav2 API (including methods to plan navigation, change active map and other utilities)  https://navigation.ros.org/commander_api/index.html) /
+- [Navmap](Simple Nav2 API (including methods to plan navigation, change active map and other utilities)      (https://navigation.ros.org/commander_api/index.html)
 
 
 Example Maps in this package:
