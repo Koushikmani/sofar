@@ -27,7 +27,9 @@ The software has been tested with the [TurtleBot3 Waffle](https://emanual.roboti
 
 - [Rviz:](http://wiki.ros.org/rviz) a visualization tool that allows inspect the simulation
 
- 
+- [Gazebo:](https://gazebosim.org/home) a 3-dimensional physics simulator used in robotics
+
+- [Nav2:](https://navigation.ros.org/) an architecture built on top of the ROS2 environment which aims to find a safe way to drive a mobile robot from one point to  another point
 
 
  
