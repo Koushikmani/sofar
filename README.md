@@ -24,7 +24,12 @@ The software has been tested with the [TurtleBot3 Waffle](https://emanual.roboti
 - This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [Ros2](https://docs.ros.org/en/humble/index.html)
 
 - OS Version:Ubuntu22.04
-- 
+
+- [Rviz:](http://wiki.ros.org/rviz) a visualization tool that allows inspect the simulation
+
+ 
+
+
  
 ## Packages to be installed(Nav2)  
 
