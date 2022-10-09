@@ -14,8 +14,7 @@ change the current loaded map for navigation upon entering another floor.
 
 
 ## Working
-   In this assignment robot will move from one floor to another after completing its task.  
-
+  In this task robot will move starting with one story then onto the next subsequent to finishing its task.The proposed arrangement is basic and proficient and works impeccably. The arrangement comprises of a few situations when the robot needs to finish a specific order. The proposed arrangement functions as follows, at first the robot is put on the primary floor, and afterward moves to the laborer to pick something from him. After that robot moves to a unique lift zone. When the robot arrives at the unique zone and stays there for a while, the robot has a chance to move to another floor and powerfully changes the as of now stacked map for route. It is critical to take note of that on each floor there is an exceptional development zone, arriving at which the robot has the potential chance to arrive at another floor. Hence, the primary objective of the assignment, to change the guide after entering another floor, was accomplished. 
 ## Installation Setup
 
   This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [Ros2](https://docs.ros.org/en/humble/index.html)
@@ -35,17 +34,17 @@ change the current loaded map for navigation upon entering another floor.
 ## Process to execute the Assignment:
 
 Testing Process:
-Terminal1
+Terminal1(Gazebo)
 
     '''
         ros2 launch sofar_assignment tb3_gazebo_stage1.py headless:=False
     '''
-Terminal2
+Terminal2(Rviz)
 
     '''
           ros2 launch sofar_assignment multi_floor_navigation_launch.py
     '''
-Terminal3
+Terminal3(main scripts)
 
     '''
            python3 state_machine.py
