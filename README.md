@@ -61,6 +61,14 @@ Terminal3(main scripts)
     '''
            python3 state_machine.py
     '''
+    
+## Video
+  Find the below video of the task
+  
+## ROS graphs  
+![rosgraph](https://user-images.githubusercontent.com/81651764/194779899-d44fa8c7-ca21-413c-85f0-b02506bc78ef.png)
+![rosgraph1](https://user-images.githubusercontent.com/81651764/194779901-d1bdf5ed-4c15-4595-a566-9dd8b43b9ac5.png)
+![rosgrap2h](https://user-images.githubusercontent.com/81651764/194779904-e3fdbe1c-ef57-4dec-b00f-975f011d9e31.png)
 
 ## References
 - [Ros2 Reference](https://automaticaddison.com/how-to-load-a-new-map-for-multi-floor-navigation-using-ros-2/) 
