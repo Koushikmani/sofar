@@ -7,7 +7,8 @@ where each floor has a different map layout. The robot knows a priori the indivi
 maps of each floor but needs some sort of state machine mechanism to dynamically
 change the current loaded map for navigation upon entering another floor.
 ![turtlebot-3-waffle](https://user-images.githubusercontent.com/81651764/188286808-ea797ca2-dca0-4cbf-b6c7-a79a56358594.jpg)
-  The software has been tested with the [TurtleBot3 Waffle](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) robot model, which is a small, affordable and programmable, ROS-based mobile robot for use in education, research, hobby, and product prototyping. This robot can run SLAM algorithms to build a map of the environment and use it to localize itself while navigating
+
+The software has been tested with the [TurtleBot3 Waffle](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) robot model, which is a small, affordable and programmable, ROS-based mobile robot for use in education, research, hobby, and product prototyping. This robot can run SLAM algorithms to build a map of the environment and use it to localize itself while navigating
 
 ![WhatsApp Image 2022-10-09 at 6 31 27 PM](https://user-images.githubusercontent.com/81651764/194768565-9a267e62-92b0-49b5-b935-38ec3bb0cc98.jpeg)
 ![WhatsApp Image 2022-10-09 at 6 31 40 PM](https://user-images.githubusercontent.com/81651764/194768569-d0dbabc6-a9f6-426d-808c-4e7008731808.jpeg)
