@@ -11,6 +11,7 @@ change the current loaded map for navigation upon entering another floor.
 ![WhatsApp Image 2022-10-09 at 6 31 40 PM](https://user-images.githubusercontent.com/81651764/194768569-d0dbabc6-a9f6-426d-808c-4e7008731808.jpeg)
 ![WhatsApp Image 2022-10-09 at 6 31 53 PM](https://user-images.githubusercontent.com/81651764/194768572-8e25321e-be51-4c92-8967-445ccfec507f.jpeg)
 ![WhatsApp Image 2022-10-09 at 6 32 15 PM](https://user-images.githubusercontent.com/81651764/194768577-e759a366-f073-43db-98a7-ed00cc3c0a57.jpeg)
+The software has been tested with the [TurtleBot3 Waffle] (https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) robot model, which is a small, affordable and programmable, ROS-based mobile robot for use in education, research, hobby, and product prototyping. This robot can run SLAM algorithms to build a map of the environment and use it to localize itself while navigating
 
 
 ## Working
