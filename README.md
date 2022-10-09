@@ -21,9 +21,10 @@ The software has been tested with the [TurtleBot3 Waffle](https://emanual.roboti
   In this task robot will move starting with one story then onto the next subsequent to finishing its task.The proposed arrangement is basic and proficient and works impeccably. The arrangement comprises of a few situations when the robot needs to finish a specific order. The proposed arrangement functions as follows, at first the robot is put on the primary floor, and afterward moves to the laborer to pick something from him. After that robot moves to a unique lift zone. When the robot arrives at the unique zone and stays there for a while, the robot has a chance to move to another floor and powerfully changes the as of now stacked map for route. It is critical to take note of that on each floor there is an exceptional development zone, arriving at which the robot has the potential chance to arrive at another floor. Hence, the primary objective of the assignment, to change the guide after entering another floor, was accomplished. 
 ## Installation Setup
 
-  This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [Ros2](https://docs.ros.org/en/humble/index.html)
+- This package is developed with the ROS2 Humble and Nav2 package to install this follow the official documentation [Ros2](https://docs.ros.org/en/humble/index.html)
 
- OS Version:Ubuntu22.04
+- OS Version:Ubuntu22.04
+- 
  
 ## Packages to be installed(Nav2)  
 
