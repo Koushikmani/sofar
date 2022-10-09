@@ -68,4 +68,4 @@ Terminal3(main scripts)
 
 ## Presentation of this project
 
-[Project Presentation Group 25](https://unigeit-my.sharepoint.com/:p:/g/personal/s5053566_studenti_unige_it/Eb4GXvMZjCZPkAOPl3CgukEBOmp50PicJvCANtFj14zN7w?e=cdHbTJ)
+Here you can find the presentation of the assignment [Project Presentation Group 25](https://unigeit-my.sharepoint.com/:p:/g/personal/s5053566_studenti_unige_it/Eb4GXvMZjCZPkAOPl3CgukEBOmp50PicJvCANtFj14zN7w?e=cdHbTJ)
