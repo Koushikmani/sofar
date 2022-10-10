@@ -64,8 +64,8 @@ Terminal3(main scripts)
     
 ## Video
   Find the below video of the task
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/ https://youtu.be/kXnhNtac16s/0.jpg)]
-  (http://www.youtube.com/watch?v= https://youtu.be/kXnhNtac16s "Video Title")
+  [![Multifloor_navigation](http://img.youtube.com/vi/kXnhNtac16s/0.jpg)]
+  (http://www.youtube.com/watch?v=kXnhNtac16s "Video Title")
 
   
 ## ROS graph  
