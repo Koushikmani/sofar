@@ -1,7 +1,7 @@
 # SOFAR_ASSIGNMENT-4  GROUP-25
 
 ## Multi-floor navigation with ROS2, by using the Nav2 package.
-### Developed by Koushikmani Maskalmatti Lakshman and Santhosh Sadhanandham under the guidance of professors  Simone Macciò. 
+### Developed by Koushikmani Maskalmatti Lakshman and Santhosh Sadhanandham under the guidance of professor Simone Macciò. 
 The idea of this assignment is to construct in simulation a multi-floor environment,
 where each floor has a different map layout. The robot knows a priori the individual
 maps of each floor but needs some sort of state machine mechanism to dynamically
