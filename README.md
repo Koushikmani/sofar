@@ -78,4 +78,4 @@ Terminal3(main scripts)
 
 ## Presentation of this project
 
-Here you can find the presentation of the assignment [Project Presentation Group 25](https://unigeit-my.sharepoint.com/:p:/g/personal/s5053566_studenti_unige_it/Eb4GXvMZjCZPkAOPl3CgukEBOmp50PicJvCANtFj14zN7w?e=cdHbTJ)
+Here you can find the presentation of the assignment [Project Presentation Group 25](https://unigeit-my.sharepoint.com/:p:/r/personal/s5053566_studenti_unige_it/_layouts/15/Doc.aspx?sourcedoc=%7B296EACFF-E84A-44F0-9633-94F95A4D0D62%7D&file=MULTI-FLOOR%20NAVIGATION%20WITH%20ROS2%20USING%20THE%20NAV2%20PACKAGE.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&login_hint=S5053566%40studenti.unige.it&ct=1665420917740&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=a0b7455a-d494-44bd-9960-cc31534b3029)
