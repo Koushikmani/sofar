@@ -74,7 +74,7 @@ Terminal3(main scripts)
 
 ## References
 - [Ros2 Reference](https://automaticaddison.com/how-to-load-a-new-map-for-multi-floor-navigation-using-ros-2/) 
-- [Nav2](https://navigation.ros.org/) 
+- [Navigation2](https://navigation.ros.org/) 
 
 ## Presentation of this project
 
