@@ -64,6 +64,7 @@ Terminal3(main scripts)
     
 ## Video
   Find the below video of the task
+  https://youtu.be/kXnhNtac16s
   
 ## ROS graph  
 ![rosgraph](https://user-images.githubusercontent.com/81651764/194779899-d44fa8c7-ca21-413c-85f0-b02506bc78ef.png)
