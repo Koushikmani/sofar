@@ -2,7 +2,7 @@
 
 import time  # Time library
 import os
-from geometry_msgs.msg import PoseStamped, PoseWithCovarianceStamped # Pose with ref frame and timestamp
+from geometry_msgs.msg import PoseStamped, PoseWithCovarianceStamped # Pose with reference frame and timestamp
 from rclpy.duration import Duration # Handles time for ROS 2
 import rclpy # Python client library for ROS 2
 from rclpy.node import Node
