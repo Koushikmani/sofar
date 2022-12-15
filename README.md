@@ -65,7 +65,7 @@ Terminal3(main scripts)
 ## Video
   Find the below video of the task
   
-  [![Multifloor_navigation](http://img.youtube.com/vi/kXnhNtac16s/0.jpg)](http://www.youtube.com/watch?v=kXnhNtac16s)
+  [![Multifloor_navigation](https://youtu.be/WbXzslbwWlo)
 
   
 ## ROS graph  
