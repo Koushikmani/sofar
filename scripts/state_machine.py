@@ -8,9 +8,9 @@ import rclpy # Python client library for ROS 2
 from rclpy.node import Node
 from rclpy.clock import Clock
 
-from nav2_simple_commander.robot_navigator import BasicNavigator, TaskResult # Helper module
+from nav2_simple_commander.robot_navigator import BasicNavigator, TaskResult # Two classes to control robot navigation and represent navigation result 
 from launch_ros.substitutions import FindPackageShare
-from gazebo_msgs.srv import DeleteEntity, SpawnEntity
+from gazebo_msgs.srv import DeleteEntity, SpawnEntity # To delete and spawn entities in a Gazebo simulation
 
 class InitialPosePublisher(Node):
     def __init__(self):
