@@ -25,7 +25,7 @@ class DeleteEntityAsync(Node):
             self.get_logger().info('service not available, waiting again...')
         self.req = DeleteEntity.Request()
 
-    def send_request(self, name):
+    def send_request(self, name): #sends requet to the delete entity service to delete entity with given name
         self.req.name = name
         self.future = self.cli.call_async(self.req)
         rclpy.spin_until_future_complete(self, self.future)
