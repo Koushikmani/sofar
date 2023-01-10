@@ -17,7 +17,7 @@ class InitialPosePublisher(Node): # Publish initial pose
         super().__init__('initialpose_publisher')
         self.publisher_ = self.create_publisher(PoseWithCovarianceStamped, 'initialpose', 10)
 
-class DeleteEntityAsync(Node):
+class DeleteEntityAsync(Node):  #Interface to delete robot model from gazebo world
     def __init__(self):
         super().__init__('delete_entity_async')
         self.cli = self.create_client(DeleteEntity, '/delete_entity')
