@@ -5,14 +5,14 @@ import os
 from geometry_msgs.msg import PoseStamped, PoseWithCovarianceStamped # Pose with reference frame and timestamp
 from rclpy.duration import Duration # Handles time for ROS 2
 import rclpy # Python client library for interacting ROS 2
-from rclpy.node import Node
+from rclpy.node import Node # To create ROS2 node
 from rclpy.clock import Clock
 
 from nav2_simple_commander.robot_navigator import BasicNavigator, TaskResult # Two classes to control robot navigation and represent navigation result 
 from launch_ros.substitutions import FindPackageShare # locate the file system path to a package share directory
 from gazebo_msgs.srv import DeleteEntity, SpawnEntity # To delete and spawn entities in a Gazebo simulation
 
-class InitialPosePublisher(Node): # creates publisher for the initialpose topic
+class InitialPosePublisher(Node): # Publish initial pose
     def __init__(self):
         super().__init__('initialpose_publisher')
         self.publisher_ = self.create_publisher(PoseWithCovarianceStamped, 'initialpose', 10)
