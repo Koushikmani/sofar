@@ -47,7 +47,7 @@ stage2_map = os.path.join(pkg_share, map_file_path_stage2)
 
 
 #Otherwise, you can use navigator function
-initial_pose = PoseStamped()
+initial_pose = PoseStamped()      # Initial position and orientation of thr robot in specific frame and time stramp 
 initial_pose.header.frame_id = 'map'
 initial_pose.header.stamp = navigator.get_clock().now().to_msg()
 initial_pose.pose.position.x = -2.0
